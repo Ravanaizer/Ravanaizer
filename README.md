@@ -1,4 +1,4 @@
-![ВЫ КТО ТАКИЕ? Я ВАС НЕ ЗВАЛ! ИДИТЕ Н***Й!](067ed222b66c9b203f32bed7e9e56d76.jpg)
+![ВЫ КТО ТАКИЕ? Я ВАС НЕ ЗВАЛ! ИДИТЕ Н***Й!](who.png)
 <!--
 **Ravanaizer/Ravanaizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
